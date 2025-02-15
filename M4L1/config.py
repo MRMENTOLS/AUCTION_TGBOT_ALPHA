@@ -1,2 +1,0 @@
-API_TOKEN = '7879294822:AAF-gFMuF9hzs1L2qroOmDMejfSBQ_NDcLA'
-DATABASE = 'data.db'
